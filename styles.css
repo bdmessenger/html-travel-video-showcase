@@ -211,6 +211,14 @@ header,
         padding: 20px;
     }
 
+    .showcase.active {
+        right: 250px;
+    }
+
+    .menu {
+        width: 250px;
+    }
+
     .content h2 {
         font-size: 2.5em;
     }
